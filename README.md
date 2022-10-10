@@ -1,4 +1,5 @@
 ### Hi, I'm Pierre-Louis 👋
+I recently got into Data Science after completing Le Wagon, a Data Science bootcamp, which focuses greatly on the practical side of Machine Learning coding and through which I discovered the thrill of all the possibilities and technologies Data Science relates to. 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PilouZer)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PilouZer/PilouZer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

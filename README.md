@@ -1,5 +1,5 @@
 ### Hi, I'm Pierre-Louis 👋
-I recently got into Data Science after completing Le Wagon, a Data Science bootcamp, which focuses greatly on the practical side of Machine Learning coding and through which I discovered the thrill of all the possibilities and technologies Data Science relates to. 
+I recently got into Data Science after completing Le Wagon, a Data Science bootcamp, which focuses greatly on the practical side of Machine Learning coding and through which I discovered the thrill of all the possibilities and technologies Data Science relates to. From September 2022 to July 2023, I am pursuing a Master in Big Data at IE University in Madrid. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PilouZer)](https://github.com/anuraghazra/github-readme-stats)
